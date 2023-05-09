@@ -1,6 +1,4 @@
 <?php
-
-    echo "hello Laplateforme! ";
     
     $str = "LaPlateforme";
     $str2 = "Vive";
